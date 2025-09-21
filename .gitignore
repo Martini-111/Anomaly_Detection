@@ -1,3 +1,4 @@
 *.env
 *.config
+*.bin
 /Large-Scale Curated Multivariate Time Series Anoma
